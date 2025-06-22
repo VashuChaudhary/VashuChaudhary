@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-I'm **Vasu Chaudhary**, a passionate full-stack developer with a strong foundation in **MERN stack**, and a deep curiosity for how technology can solve real-world problems. I’m currently pursuing **BSc (Hons) in Electronics** from **Deen Dayal Upadhyaya College, University of Delhi**, and I love building digital products that blend functionality with seamless user experience.
+I'm **Vasu Chaudhary**, a passionate full-stack developer with a strong foundation in **MERN stack**, and a deep curiosity for how technology can solve real-world problems. Eager to learn new tech , and I love building digital products that blend functionality with seamless user experience.
 
 ---
 
