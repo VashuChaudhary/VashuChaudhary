@@ -1,6 +1,6 @@
 <img align="center" alt="banner" width="100%" src="https://github.com/VashuChaudhary/VashuChaudhary/blob/main/assets/banner.jpg" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3BB8F2&width=700&lines=Hi+there,+I'm+Vasu;MERN+Stack+Developer;Computer+Science+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3BB8F2&width=700&lines=Hi+there,+I'm+Vasu...!!;MERN+Stack+Developer;Computer+Science+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
