@@ -11,11 +11,10 @@ I'm **Vasu Chaudhary**, a passionate full-stack developer with a strong foundati
 ---
 
 ### 🔧 Tech Stack & Tools
-
-- <code><img height="40" src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql" /></code>
-- <code><img height="40" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" /></code>
-- <code><img height="40" src="https://skillicons.dev/icons?i=c,cpp,py,java" /></code>
-- <code><img height="40" src="https://skillicons.dev/icons?i=git,github,figma,vscode" /></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql" /></code><br><br>
+<code><img height="40" src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind" /></code><br><br>
+<code><img height="40" src="https://skillicons.dev/icons?i=c,cpp,py,java" /></code><br><br>
+<code><img height="40" src="https://skillicons.dev/icons?i=git,github,figma,vscode" /></code>
 ---
 
 ### 🚀 Projects
