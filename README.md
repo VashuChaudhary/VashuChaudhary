@@ -1,12 +1,12 @@
 <img align="center" alt="banner" width="100%" src="https://github.com/VashuChaudhary/VashuChaudhary/blob/main/assets/banner.jpg" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3BB8F2&width=700&lines=Hi+there,+I'm+Vasu+Chaudhary;MERN+Stack+Developer+%7C+UI%2FUX+Designer;Electronics+Major+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=3BB8F2&width=700&lines=Hi+there,+I'm+Vasu+Chaudhary;MERN+Stack+Developer;Computer+Science+and+%7C+Open+Source+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm **Vasu Chaudhary**, a passionate full-stack developer with a strong foundation in **MERN stack**, **UI/UX design**, and a deep curiosity for how technology can solve real-world problems. I’m currently pursuing **BSc (Hons) in Electronics** from **Deen Dayal Upadhyaya College, University of Delhi**, and I love building digital products that blend functionality with seamless user experience.
+I'm **Vasu Chaudhary**, a passionate full-stack developer with a strong foundation in **MERN stack**, and a deep curiosity for how technology can solve real-world problems. I’m currently pursuing **BSc (Hons) in Electronics** from **Deen Dayal Upadhyaya College, University of Delhi**, and I love building digital products that blend functionality with seamless user experience.
 
 ---
 
