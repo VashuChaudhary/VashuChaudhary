@@ -24,9 +24,21 @@ I'm **Vasu Chaudhary**, a passionate full-stack developer with a strong foundati
 - 🔗 [**EMart**](https://github.com/VashuChaudhary/EMart) – Static UI project for an online store interface.
 - 🔗 [**SanGeet**](https://github.com/VashuChaudhary/SanGeet) – Static music player frontend to showcase responsive layouts.
 
+---
+### 🎓 Education
+
+**Bachelor of Science Electronics (Hons)**  
+_Deen Dayal Upadhyaya College, University of Delhi_  
+📆 Aug 2023 – Jul 2027 | 📈 CGPA: 7.32 (Ongoing)
 
 
+---
+### 📄 Publications
 
+- *Transforming Healthcare with AI: A Comprehensive Review* – SOCPROS-2025, **IIT Roorkee**
+- *AI Powered Innovations in Traffic Management Systems* – **ICAML-2025**
+
+---
 ### 📫 Let's Connect
 
 <a href="mailto:vasuchr09@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
