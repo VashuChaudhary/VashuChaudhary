@@ -21,8 +21,7 @@ I'm **Vasu Chaudhary**, a passionate full-stack developer with a strong foundati
 
 - 🔗 [**Wanderlust**](https://github.com/VashuChaudhary/Wanderlust) – A full-stack rental platform for seamless property bookings. *(MongoDB, Node.js, Express.js, React, Tailwind CSS, Bootstrap)*
 - 🔗 [**Currency Converter**](https://github.com/VashuChaudhary/Currency-Converter) – A real-time currency conversion web tool. *(HTML, CSS, JS)*
-- 🔗 [**EMart**](https://github.com/VashuChaudhary/EMart) – Static UI project for an online store interface.
-- 🔗 [**SanGeet**](https://github.com/VashuChaudhary/SanGeet) – Static music player frontend to showcase responsive layouts.
+- 🔗 [**PdftoImg**](https://github.com/VashuChaudhary/SanGeet) – PdftoImg is a modern web application that allows users to seamlessly convert images to PDF and extract images from PDF files..
 
 ---
 ### 🎓 Education
