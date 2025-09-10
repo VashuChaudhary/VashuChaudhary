@@ -20,8 +20,8 @@ I'm **Vasu Chaudhary**, a passionate full-stack developer with a strong foundati
 ### 🚀 Projects
 
 - 🔗 [**Wanderlust**](https://github.com/VashuChaudhary/Wanderlust) – A full-stack rental platform for seamless property bookings. *(MongoDB, Node.js, Express.js, React, Tailwind CSS, Bootstrap)*
-- 🔗 [**Currency Converter**](https://github.com/VashuChaudhary/Currency-Converter) – A real-time currency conversion web tool. *(HTML, CSS, JS)*
-- 🔗 [**PdftoImg**](https://github.com/VashuChaudhary/SanGeet) – PdftoImg is a modern web application that allows users to seamlessly convert images to PDF and extract images from PDF files..
+- 🔗 [**PdftoImg**](https://github.com/VashuChaudhary/pdftoimg) – PdftoImg is a modern web application that allows users to seamlessly convert images to PDF and extract images from PDF files..*
+- 🔗 [**YTDown**](https://github.com/VashuChaudhary/ytflask) – A modern web app to grab your favorite YouTube videos instantly. Built with Flask and powered by yt-dlp, this app gives you a clean, one-click experience to save videos in MP4 format.*
 
 ---
 ### 🎓 Education
