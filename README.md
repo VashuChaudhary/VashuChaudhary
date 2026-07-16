@@ -71,7 +71,6 @@ Currently, I am serving as an IT Manager at the Mahika Mishra Foundation, where 
 ### 🚀 Featured Engineering
 
 * **Document Management System & Workflow Automation** Architected a centralized DMS and deployed an automated WhatsApp-to-Google Sheets bot to eliminate manual data entry at MMF. Designed and mentored the deployment of an automated, time-triggered organizational chart system.
-* **DeepSpeak** Built an AI-powered platform recreating realistic personas using Whisper, Stable Diffusion, and Gemini/DeepSeek during CodeClash 2.0 (Finalist). 
 * **WanderLust** Developed a scalable full-stack rental platform from scratch. Implemented responsive UI components and secure booking workflows using React, Node.js, Express, and MongoDB.
 * **PdftoImg** Engineered a fast, client-side web application for seamless image-to-PDF conversion and extraction using React, Vite, and Tailwind CSS.
 
@@ -79,7 +78,6 @@ Currently, I am serving as an IT Manager at the Mahika Mishra Foundation, where 
 
 ### 📄 Publications
 * **SOCPROS-2025 (IIT Roorkee):** *Transforming Healthcare with AI: A Review of Innovations in Tropical Disease Management and Cancer Therapy*
-* **ICAML-2025:** *AI-Powered Innovations in Traffic Management Systems: A Comprehensive Review*
 
 ---
 
