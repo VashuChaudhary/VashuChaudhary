@@ -51,42 +51,39 @@ _Deen Dayal Upadhyaya College, University of Delhi_
 # Vasu Chaudhary
 **Software Engineer | MERN, C++, DevOps | Systems Architecture**
 
-[cite_start]I build end-to-end applications, understanding systems from the hardware logic up to cloud deployment[cite: 350]. 
+I build end-to-end applications, understanding systems from the hardware logic up to cloud deployment. 
 
-[cite_start]My engineering background is rooted in Electronics (BSc, University of Delhi), giving me a strong grasp of the physical computing layer and low-level system architecture, which I bridge with full-stack development and cloud infrastructure[cite: 333, 382]. 
+My engineering background is rooted in Electronics (BSc, University of Delhi), giving me a strong grasp of the physical computing layer and low-level system architecture, which I bridge with full-stack development and cloud infrastructure. 
 
-[cite_start]Currently, I am serving as an IT Manager at the Mahika Mishra Foundation, where I architect internal systems and automate operational workflows[cite: 332, 406].
+Currently, I am serving as an IT Manager at the Mahika Mishra Foundation, where I architect internal systems and automate operational workflows.
 
 ---
 
 ### 💻 Core Stack
-* [cite_start]**Languages:** C++ (DSA Focus), JavaScript/TypeScript, Python [cite: 101, 353, 384]
-* [cite_start]**Backend & Systems:** Node.js, Express, REST APIs, System Design [cite: 353, 384]
-* [cite_start]**Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD [cite: 353, 384]
-* [cite_start]**Frontend & Mobile:** React.js, Tailwind CSS, React Native [cite: 353, 384]
-* [cite_start]**Databases:** MongoDB, MySQL [cite: 211, 353, 384]
+* **Languages:** C++ (DSA Focus), JavaScript/TypeScript, Python
+* **Backend & Systems:** Node.js, Express, REST APIs, System Design
+* **Cloud & DevOps:** AWS, Docker, Kubernetes, CI/CD
+* **Frontend & Mobile:** React.js, Tailwind CSS, React Native
+* **Databases:** MongoDB, MySQL
 
 ---
 
 ### 🚀 Featured Engineering
 
-* **Document Management System & Workflow Automation** Architected a centralized DMS and deployed an automated WhatsApp-to-Google Sheets bot to eliminate manual data entry at MMF. [cite_start]Designed and mentored the deployment of an automated, time-triggered organizational chart system[cite: 388, 413, 414].
-
-* [cite_start]**DeepSpeak** Built an AI-powered platform recreating realistic personas using Whisper, Stable Diffusion, and Gemini/DeepSeek during CodeClash 2.0 (Finalist)[cite: 254, 255, 257]. 
-
-* **WanderLust** Developed a scalable full-stack rental platform from scratch. [cite_start]Implemented responsive UI components and secure booking workflows using React, Node.js, Express, and MongoDB[cite: 20, 21].
-
-* [cite_start]**PdftoImg** Engineered a fast, client-side web application for seamless image-to-PDF conversion and extraction using React, Vite, and Tailwind CSS[cite: 60, 61].
+* **Document Management System & Workflow Automation** Architected a centralized DMS and deployed an automated WhatsApp-to-Google Sheets bot to eliminate manual data entry at MMF. Designed and mentored the deployment of an automated, time-triggered organizational chart system.
+* **DeepSpeak** Built an AI-powered platform recreating realistic personas using Whisper, Stable Diffusion, and Gemini/DeepSeek during CodeClash 2.0 (Finalist). 
+* **WanderLust** Developed a scalable full-stack rental platform from scratch. Implemented responsive UI components and secure booking workflows using React, Node.js, Express, and MongoDB.
+* **PdftoImg** Engineered a fast, client-side web application for seamless image-to-PDF conversion and extraction using React, Vite, and Tailwind CSS.
 
 ---
 
 ### 📄 Publications
-* [cite_start]**SOCPROS-2025 (IIT Roorkee):** *Transforming Healthcare with AI: A Review of Innovations in Tropical Disease Management and Cancer Therapy* [cite: 35, 78]
-* [cite_start]**ICAML-2025:** *AI-Powered Innovations in Traffic Management Systems: A Comprehensive Review* [cite: 79, 81]
+* **SOCPROS-2025 (IIT Roorkee):** *Transforming Healthcare with AI: A Review of Innovations in Tropical Disease Management and Cancer Therapy*
+* **ICAML-2025:** *AI-Powered Innovations in Traffic Management Systems: A Comprehensive Review*
 
 ---
 
 ### 📫 Connect with Me
-* [cite_start]**X (Twitter):** [@vasuchy](https://x.com/vasuchy) [cite: 420]
-* [cite_start]**LinkedIn:** [in/vasuchaudhary](https://linkedin.com/in/vasuchaudhary) [cite: 165]
-* [cite_start]**Email:** vasuchr09@gmail.com [cite: 2]
+* **X (Twitter):** [@vasuchy](https://x.com/vasuchy)
+* **LinkedIn:** [in/vasuchaudhary](https://linkedin.com/in/vasuchaudhary)
+* **Email:** vasuchr09@gmail.com
